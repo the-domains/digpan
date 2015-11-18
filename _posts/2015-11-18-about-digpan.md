@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: What happens when the digital and the physical collide and merge?
-datePublished: '2015-11-18T17:42:27.024Z'
-dateModified: '2015-11-18T17:42:19.621Z'
+datePublished: '2015-11-18T17:44:47.765Z'
+dateModified: '2015-11-18T17:42:27.024Z'
 title: About Digpan
 authors: []
 publisher:

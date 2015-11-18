@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digpan]]></title>
+        <description><![CDATA[Digpan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 17:39:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Digpan]]></title>
+            <description><![CDATA[<article><h1>About Digpan</h1><p>What happens when the digital and the physical collide and merge?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cd907e0-0c8c-48cb-8127-2060ec880e1e.jpg"></article>]]></description>
+            <link>undefinedabout-digpan/index.html</link>
+            <guid isPermaLink="false">9a900bb2-1d98-4370-b60d-9462b7eddde4</guid>
+            <pubDate>Wed, 18 Nov 2015 17:38:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

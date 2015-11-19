@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: How the web is leaving the internet
-datePublished: '2015-11-19T12:43:58.519Z'
-dateModified: '2015-11-19T12:43:46.301Z'
+datePublished: '2015-11-19T12:47:17.545Z'
+dateModified: '2015-11-19T12:46:53.880Z'
 title: Digital Meets Analog
+sourcePath: _posts/2015-11-19-digital-meets-analog.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-digital-meets-analog.md
-published: true
 url: digital-meets-analog/index.html
 _type: Article
 
@@ -33,6 +33,7 @@ The railroad clearly led to all four; the internet has just about reached the th
 The next wave of the internet will involve creating community services: health, education, politics, entertainment located in the geography of the internet.
 
 The demand for community services will spill over from the world of information into the world of of matter, from the digital to the analog. The merger of the two - digital + analog = digpan - will increasingly be the story of the web.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a089e71-9916-47e8-ae47-c2f52a612e44.jpg)
 
 [0]: http://en.wikipedia.org/wiki/Yahoo!
 [1]: http://en.wikipedia.org/wiki/Google

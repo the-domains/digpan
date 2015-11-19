@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Plus Analog]]></description>
         <link>https://thegrid.ai/digpan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 17:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 12:44:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digpan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Digpan]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/digpan/about-digpan/index.html</link>
             <guid isPermaLink="false">9a900bb2-1d98-4370-b60d-9462b7eddde4</guid>
             <pubDate>Wed, 18 Nov 2015 17:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital Meets Analog]]></title>
+            <description><![CDATA[<article><h1>Digital Meets Analog</h1><p>How the web is leaving the internet</p></article>]]></description>
+            <link>https://thegrid.ai/digpan/digital-meets-analog/index.html</link>
+            <guid isPermaLink="false">3db0ec1e-ec90-4ac4-8603-1b10577fd842</guid>
+            <pubDate>Thu, 19 Nov 2015 12:43:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

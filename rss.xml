@@ -4,14 +4,21 @@
         <description><![CDATA[Digital Plus Analog]]></description>
         <link>https://thegrid.ai/digpan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 20:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 19:25:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digpan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Meets Analog]]></title>
-            <description><![CDATA[<article><h1>Digital Meets Analog</h1><p>How the web is leaving the internet</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a089e71-9916-47e8-ae47-c2f52a612e44.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Digital Meets Analog</h1><p>How the web is leaving the internet</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41a5fc0d1cdba38d7e67facd761a0a84c902a9ed.jpg"></article>]]></description>
             <link>https://thegrid.ai/digpan/digital-meets-analog/index.html</link>
             <guid isPermaLink="false">3db0ec1e-ec90-4ac4-8603-1b10577fd842</guid>
             <pubDate>Thu, 19 Nov 2015 14:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[16 mobile theses]]></title>
+            <description><![CDATA[<article><h1>16 mobile theses</h1><p>We're now coming up to 9 years since the launch of the iPhone kicked off the smartphone revolution, and some of the first phases are over - Apple and Google both won the platform war, mostly, Facebook made the transition, mostly, and it's now perfectly clear that mobile is the future of technology and of the internet.</p></article>]]></description>
+            <link>http://ben-evans.com/benedictevans/2015/12/15/16-mobile-theses</link>
+            <guid isPermaLink="false">033d5801-491d-4223-8ed5-62730abc1be8</guid>
+            <pubDate>Wed, 23 Dec 2015 19:25:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why good storytelling helps you design great products - GV Library]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Want an open-source deep learning framework? Take your pick]]></title>
-            <description><![CDATA[<article><h1>Want an open-source deep learning framework? Take your pick</h1><p>Earlier this week, Google made a splash when it released its TensorFlow artificial intelligence software on GitHub under an open-source license. Google has a sizable stable of AI talent, and AI is working behind the scenes in popular products, including Gmail and Google search, so AI tools from Google are a big deal.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/ConvNetJS-demo.png?fit=780%2C9999"></article>]]></description>
+            <description><![CDATA[<article><h1>Want an open-source deep learning framework? Take your pick</h1><p>Earlier this week, Google made a splash when it released its TensorFlow artificial intelligence software on GitHub under an open-source license. Google has a sizable stable of AI talent, and AI is working behind the scenes in popular products, including Gmail and Google search, so AI tools from Google are a big deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59cebb10ee8af31213e84701f79b75cf9a985634.png"></article>]]></description>
             <link>http://venturebeat.com/2015/11/14/deep-learning-frameworks/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29</link>
             <guid isPermaLink="false">1a00faf3-f9b5-455d-935c-a1350158eb1d</guid>
             <pubDate>Tue, 24 Nov 2015 16:13:51 GMT</pubDate>

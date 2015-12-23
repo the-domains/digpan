@@ -1,7 +1,7 @@
 name: Digpan
 favicon: null
 layout_spectrum: 0.75422
-typography_spectrum: 0.8222726390231401
+typography_spectrum: 0.49409
 title: Digital Plus Analog
 cta:
   domain: null
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fcf8f9'
+    - '#000606'
+    - '#617881'
+    - '#b8c6cf'
+    - '#979fa2'
   brandStrength: 0.06561013194732368
   lightness: 0.8474425435997546
   saturation: 0.02980449120514095

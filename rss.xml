@@ -4,11 +4,11 @@
         <description><![CDATA[Digital Plus Analog]]></description>
         <link>https://thegrid.ai/digpan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 19:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 19:33:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digpan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Meets Analog]]></title>
-            <description><![CDATA[<article><h1>Digital Meets Analog</h1><p>How the web is leaving the internet</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41a5fc0d1cdba38d7e67facd761a0a84c902a9ed.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Digital Meets Analog</h1><p>How the web is leaving the internet</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5840aeac8d5d15b50713844f85bbe71127d28873.jpg"></article>]]></description>
             <link>https://thegrid.ai/digpan/digital-meets-analog/index.html</link>
             <guid isPermaLink="false">3db0ec1e-ec90-4ac4-8603-1b10577fd842</guid>
             <pubDate>Thu, 19 Nov 2015 14:48:12 GMT</pubDate>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Want an open-source deep learning framework? Take your pick</h1><p>Earlier this week, Google made a splash when it released its TensorFlow artificial intelligence software on GitHub under an open-source license. Google has a sizable stable of AI talent, and AI is working behind the scenes in popular products, including Gmail and Google search, so AI tools from Google are a big deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59cebb10ee8af31213e84701f79b75cf9a985634.png"></article>]]></description>
             <link>http://venturebeat.com/2015/11/14/deep-learning-frameworks/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29</link>
             <guid isPermaLink="false">1a00faf3-f9b5-455d-935c-a1350158eb1d</guid>
-            <pubDate>Tue, 24 Nov 2015 16:13:51 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 19:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

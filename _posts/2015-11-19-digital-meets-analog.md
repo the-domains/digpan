@@ -6,11 +6,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: How the web is leaving the internet
-datePublished: '2015-11-19T14:48:12.934Z'
-dateModified: '2015-11-19T14:48:08.027Z'
+datePublished: '2016-04-29T16:01:57.687Z'
+dateModified: '2015-12-23T17:14:18.061Z'
 title: Digital Meets Analog
 sourcePath: _posts/2015-11-19-digital-meets-analog.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,7 +22,7 @@ url: digital-meets-analog/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a089e71-9916-47e8-ae47-c2f52a612e44.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41a5fc0d1cdba38d7e67facd761a0a84c902a9ed.jpg)
 
 Just as the railroad revolutionized life in the nineteenth century, the internet has created spaces increasingly revolutionized by new ways of communicating ideas and transporting goods. The progression of technology is the same in both cases:
 

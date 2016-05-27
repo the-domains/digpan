@@ -3,21 +3,18 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: How the web is leaving the internet
-datePublished: '2016-04-29T16:01:57.687Z'
-dateModified: '2015-12-23T17:14:18.061Z'
-title: Digital Meets Analog
+description: 'Just as the railroad revolutionized life in the nineteenth century, the internet has created spaces increasingly revolutionized by new ways of communicating ideas and transporting goods. The progression of technology is the same in both cases:'
+datePublished: '2016-05-27T01:15:25.852Z'
+dateModified: '2016-05-27T01:15:25.542Z'
+title: ''
 sourcePath: _posts/2015-11-19-digital-meets-analog.md
-published: true
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: digital-meets-analog/index.html
 _type: Article
 

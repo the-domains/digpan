@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Plus Analog]]></description>
         <link>https://thegrid.ai/digpan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:16:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digpan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Meets Analog]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/digpan/digital-meets-analog/index.html</link>
             <guid isPermaLink="false">3db0ec1e-ec90-4ac4-8603-1b10577fd842</guid>
             <pubDate>Fri, 27 May 2016 01:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jayary 1: Revenge]]></title>
+            <description><![CDATA[<article><h1>Jayary 1: Revenge</h1><p>Parikshit: grandson of Arjuna, ruler of the Kuru empire. Doesn't take snakes seriously. Janamejaya: son of Parikshit. Takes snakes too seriously. Siva: One of the trinity, presides over the end of times. Surendra Sharma: Comic poet. George Bush: American President. George W. Bush: Another American President.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0287840d432d68a60eeab641b35becd54fbd30e7.jpg"></article>]]></description>
+            <link>http://www.jayary.com/blog/jayary-1-revenge</link>
+            <guid isPermaLink="false">e1d4487a-da97-4867-a6a1-bd9feb47c60d</guid>
+            <pubDate>Fri, 27 May 2016 01:15:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Want an open-source deep learning framework? Take your pick]]></title>

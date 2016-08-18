@@ -1,20 +1,4 @@
-name: Digpan
-favicon: null
-layout_spectrum: 0.74388
 typography_spectrum: 0.49409
-title: Digital Plus Analog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fcf8f9'
@@ -26,4 +10,24 @@ color:
   lightness: 0.8474425435997546
   saturation: 0.02980449120514095
   rhythmicContrast: 0.6640060083009303
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74388
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Digpan
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Digital Meets Analog
+    id: 3db0ec1e-ec90-4ac4-8603-1b10577fd842
+    type: content
+favicon: null
+title: Digital Plus Analog
 purpose: []

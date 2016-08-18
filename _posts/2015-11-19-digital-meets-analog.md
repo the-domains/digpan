@@ -4,16 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Just as the railroad revolutionized life in the nineteenth century, the internet has created spaces increasingly revolutionized by new ways of communicating ideas and transporting goods. The progression of technology is the same in both cases:'
-datePublished: '2016-05-27T01:15:25.852Z'
-dateModified: '2016-05-27T01:15:25.542Z'
+description: >-
+  Just as the railroad revolutionized life in the nineteenth century, the
+  internet has created spaces increasingly revolutionized by new ways of
+  communicating ideas and transporting goods. The progression of technology is
+  the same in both cases:
+datePublished: '2016-08-18T11:02:24.127Z'
+dateModified: '2016-08-18T11:02:23.516Z'
 title: ''
 sourcePath: _posts/2015-11-19-digital-meets-analog.md
 author:
   - name: ''
     url: ''
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: true
 url: digital-meets-analog/index.html
 _type: Article
